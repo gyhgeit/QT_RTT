@@ -276,5 +276,5 @@ void MainWindow::on_comboBox_RamSize_currentIndexChanged(const QString &text)
 
 void MainWindow::on_pushButton_clearInput_clicked()
 {
-
+    //清空输入框
 }

@@ -212,7 +212,7 @@ void MainWindow::on_pushButton_unlink_clicked()
     }
     else
     {
-        qDebug()<<"dll无法卸载/";
+        qDebug()<<"dll无法卸载";
     }
     this->op_show("已与MCU断开连接，keil可以使用jlink了");
 }
